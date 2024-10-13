@@ -2,15 +2,7 @@
 
 Este projeto consiste em dois scripts Python para extrair dados do Google Analytics de um banco de dados PostgreSQL e realizar análises usando a API da OpenAI.
 
-## Visão Geral do Pipeline
 
-[![Pipeline de Análise de Dados](pipeline.jpg)](https://youtube.com/live/INK-8RhEyrM)
-
-Clique na imagem acima para assistir a um vídeo explicativo sobre o pipeline de análise de dados.
-
-[![Pipeline de Análise de Dados](pipelinecompleta.png)](https://link.excalidraw.com/l/8pvW6zbNUnD/ABHZCoeTB1w)
-
-Clique na imagem acima para visualizar o Excalidraw do projeto.
 
 ## Arquivos do Projeto
 
